@@ -1,5 +1,5 @@
 import './App.css';
-import PaymentCardInput from './PaymentCardinput';
+import PaymentCardInput from './PaymentCardInput';
 import PhoneNumberInput from './PhoneNumberInput';
 
 function App() {
